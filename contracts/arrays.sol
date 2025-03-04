@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.22;
 
-//Gli Array sono delle variabili di tipo 'reference', ovveronon archiviano direttamente i valori, ma fanno riferimento a variabili
+//Gli Array sono delle variabili di tipo 'reference', ovvero non archiviano direttamente i valori, ma fanno riferimento a variabili
 
 // Gli Array possono essere di 2 tipi:
 // - size fissa = la dimensione dell'array (elementi al suo interno) è fissa: uint[20] public arrFixed
